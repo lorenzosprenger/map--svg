@@ -1,0 +1,105 @@
+svg{
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+}
+body{
+    background-color: white;
+}
+*{
+    font-family: Arial;
+
+}
+header{
+    position: absolute;
+    width: 100%;
+    height: 10%;
+    left: 0px;
+    top: 0px;
+    background: #ff0000;
+    z-index: 99999999999999999;
+}
+
+.header{
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    color: white;
+    z-index: 99999999999999999;
+
+}
+
+.voltar{
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    transform: translate(-50%, -50%);
+    font-size: 130%;
+    color: rgb(0, 0, 0);
+    z-index: 99999999999999999;
+
+}
+#path62{
+    max-width: 100%;
+    -moz-transition: all 2s;
+    -webkit-transition: all 2s;
+    transition: all 2s;
+
+   
+}
+
+
+#path62:hover{
+    
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.15);
+}
+#path88{
+    max-width: 100%;
+    -moz-transition: all 2s;
+    -webkit-transition: all 2s;
+    transition: all 2s;
+
+   
+}
+
+#path88:hover{
+    
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.15);
+}
+#path90{
+    max-width: 100%;
+    -moz-transition: all 2s;
+    -webkit-transition: all 2s;
+    transition: all 2s;
+
+   
+}
+
+#path90:hover{
+    
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.05);
+}
+#path92{
+    max-width: 100%;
+    -moz-transition: all 2s;
+    -webkit-transition: all 2s;
+    transition: all 2s;
+
+   
+}
+
+#path92:hover{
+    
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.05);
+}

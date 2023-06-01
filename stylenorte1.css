@@ -1,0 +1,162 @@
+svg{
+    position: absolute;
+    top: 70%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+}
+body{
+    background-color: white;
+}
+*{
+    font-family: Arial;
+
+}
+header{
+    position: absolute;
+    width: 100%;
+    height: 10%;
+    left: 0px;
+    top: 0px;
+    background: #ff0000;
+    z-index: 99999999999999999;
+}
+
+.header{
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 200%;
+    color: white;
+    z-index: 99999999999999999;
+
+}
+
+.voltar{
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    transform: translate(-50%, -50%);
+    font-size: 130%;
+    color: rgb(0, 0, 0);
+    z-index: 99999999999999999;
+
+}
+#path1{
+    max-width: 100%;
+    -moz-transition: all 2s;
+    -webkit-transition: all 2s;
+    transition: all 2s;
+
+   
+}
+
+
+#path1:hover{
+    
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.15);
+}
+
+#path2{
+    max-width: 100%;
+    -moz-transition: all 2s;
+    -webkit-transition: all 2s;
+    transition: all 2s;
+
+   
+}
+
+
+#path2:hover{
+    
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.15);
+}
+
+#path3{
+    max-width: 100%;
+    -moz-transition: all 2s;
+    -webkit-transition: all 2s;
+    transition: all 2s;
+
+   
+}
+
+
+#path3:hover{
+    
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.15);
+}
+
+#path4{
+    max-width: 100%;
+    -moz-transition: all 2s;
+    -webkit-transition: all 2s;
+    transition: all 2s;
+
+   
+}
+
+
+#path4:hover{
+    
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.15);
+}
+
+#path5{
+    max-width: 100%;
+    -moz-transition: all 2s;
+    -webkit-transition: all 2s;
+    transition: all 2s;
+
+   
+}
+
+
+#path5:hover{
+    
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.15);
+}
+
+#path6{
+    max-width: 100%;
+    -moz-transition: all 2s;
+    -webkit-transition: all 2s;
+    transition: all 2s;
+
+   
+}
+
+
+#path6:hover{
+    
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.15);
+}
+
+#path7{
+    max-width: 100%;
+    -moz-transition: all 2s;
+    -webkit-transition: all 2s;
+    transition: all 2s;
+
+   
+}
+
+
+#path7:hover{
+    
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.15);
+}
